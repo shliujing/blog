@@ -76,9 +76,7 @@ feed:
 ## Themes: http://hexo.io/themes/
 # 先用pacman，再还回来landscape
 # pacman  jacman  landscape simpleblock huno  yilia
-theme: jacman
-
-
+theme: pacman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
