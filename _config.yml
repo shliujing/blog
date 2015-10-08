@@ -5,7 +5,7 @@
 # Site
 title: 刘靖的博客
 subtitle: Being toward future.
-description: 生活,技术,分享
+description: 这是Github和Hexo的静态Blog，希望用简单而清晰的写作方式Markdown分享自己的心得体会。
 author: Liu Jing
 language: zh-CN
 timezone:
@@ -66,7 +66,7 @@ tag: 1
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY年MM月DD日
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
@@ -94,14 +94,28 @@ feed:
 sitemap:
   path: sitemap.xml
 
-## Themes: http://hexo.io/themes/
-# 先用pacman，再还回来landscape
-# pacman  jacman  landscape simpleblock huno  yilia
+## Themes: http://hexo.io/themes/  thinking:pacman  jacman  landscape simpleblock huno  yilia
 theme: jacman
 
 # Stylus
 stylus:
   compress: true
+
+# Others
+index_generator:
+  per_page: 5 ##首页默认10篇文章标题 如果值为0不分页
+
+archive_generator:
+    per_page: 0 ##归档页面默认10篇文章标题
+    yearly: true  ##生成年视图
+    monthly: true ##生成月视图
+
+tag_generator:
+    per_page: 0 ##标签分类页面默认10篇文章
+
+category_generator: 
+    per_page: 0 ###分类页面默认10篇文章
+
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
