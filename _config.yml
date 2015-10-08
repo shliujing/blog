@@ -86,9 +86,9 @@ Plugins:
 
 # Feed Atom
 feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+  type: atom   #feed 类型 (atom/rss2)
+  path: atom.xml   #rss 路径
+  limit: 20   #在 rss 中最多生成的文章数(0显示所有)
 
 # Sitemap
 sitemap:
