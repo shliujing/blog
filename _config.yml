@@ -95,7 +95,7 @@ feed:
 sitemap:
   path: sitemap.xml
 
-## Themes: http://hexo.io/themes/  thinking:pacman  jacman  landscape simpleblock huno  yilia
+## Themes: http://hexo.io/themes/  thinking:pacman  jacman  landscape simpleblock huno  yilia next
 theme: jacman
 
 # Stylus
