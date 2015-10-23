@@ -1,4 +1,8 @@
-title: Hello World
+title: 注意事项-给父母买红米手机
+date: 2015-09-10 12:06:54
+tags: [life,parent,notice]
+categories: life
+description: 注意事项-给父母买红米手机
 ---
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
