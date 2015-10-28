@@ -1,7 +1,7 @@
 title: 注意事项-给父母买红米手机
 date: 2015-10-10 12:06:54
-tags: [life,parent,notice]
-categories: life
+tags: [生活,父母,手机]
+categories: Life
 description: 注意事项-给父母买红米手机
 ---
 
